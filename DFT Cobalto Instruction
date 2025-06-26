@@ -1,5 +1,11 @@
+how make DOS:
 1- Co-cfc.in
 2- Comando Bash: pw.x -i Co-cfc.in | Co-cfc.out
 3- dos.in
 4- dos.x < dos.in > dos.out
-5-
+5- extract data from dos.out and run in python, the code are in archieve DOS.py
+
+Also you can vary the values of distances between atoms, so calculate the values where converges the cut energy. Here what you have to do:
+
+1- First you need automatization the Co-cfc.in varing the "a" paramenter, this code are in archieve Co-cfc.bash
+
