@@ -1,0 +1,14 @@
+&dos
+    prefix = 'Co-CFC'
+    outdir = './tmp/'
+    fildos = 'Co-CFC.dos'
+    Emin = -10.0, Emax = 10.0, DeltaE = 0.01
+/
+
+#prefix e outdir devem ser os mesmos do cálculo SCF.
+
+#fildos é o nome do arquivo de saída com os dados da DOS.
+
+#Emin, Emax → intervalo de energia (em eV, normalmente em relação ao nível de Fermi).
+
+#DeltaE → resolução da DOS (quanto menor, mais suave a curva).
