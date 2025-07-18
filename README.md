@@ -1,2 +1,3 @@
-# T-pico-em-C-lculo-de-Estrutura-Eletr-nica
-DFT e outras técnicas de aproximação para calcular a estrutura eletrônica
+# DFT about AlFe
+
+In this project, we aim to calculate properties of intermetalic AlFe, using Density Functional Theory (DFT) method. So, we could calculate its formation energy and DOS (Density Of States).
